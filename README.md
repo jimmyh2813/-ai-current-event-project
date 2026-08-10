@@ -3,8 +3,6 @@
 ## Team
 - Hung Hao Huang — 116975251
 
-*(Solo team — see note below.)*
-
 ## Topic Summary
 Since late 2025, major AI labs (Anthropic, OpenAI, Google, xAI, and others) have shifted from occasional "flagship" model launches to shipping new, tiered models every few weeks. Our project looks at this pattern through a concrete recent example — Anthropic's release of Claude Opus 5 on July 24, 2026, its fourth Claude 5-series model release in under two months — and asks what this faster pace means for cost, access, and public trust in AI.
 
@@ -18,15 +16,15 @@ Since late 2025, major AI labs (Anthropic, OpenAI, Google, xAI, and others) have
 (Full notes: [`/research-notes/research-notes.md`](./research-notes/research-notes.md))
 
 ## Video
-📺 **YouTube (PUBLIC):** [paste your public YouTube link here]
+📺 **YouTube (PUBLIC):** [https://youtu.be/W55RZr3uLqA](https://youtu.be/W55RZr3uLqA)
 
 ## Discussion Question
 > "If a genuinely better, cheaper AI model can appear every few weeks, how should people and companies decide when it's actually worth switching — and does that pace make AI systems easier or harder to trust?"
 
 ## AI Evaluation
 We asked two different AI models to grade our finished project against the assignment rubric:
-- [`/ai-evaluation/ai-model-1.md`](./ai-evaluation/ai-model-1.md) — [AI model name]
-- [`/ai-evaluation/ai-model-2.md`](./ai-evaluation/ai-model-2.md) — [AI model name]
+- [`/ai-evaluation/ai-model-1.md`](./ai-evaluation/ai-model-1.md) — Gemini
+- [`/ai-evaluation/ai-model-2.md`](./ai-evaluation/ai-model-2.md) — ChatGPT
 
 ## Reflection
 Our full reflection on the AI grading experience and how AI helped (or didn't help) our research is in [`reflection.md`](./reflection.md).
